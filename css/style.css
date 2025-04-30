@@ -6,3 +6,9 @@ body {
 #output-message {
     font-weight: bold;
 }
+
+.selected {
+    background-color: #0d6efd;
+    color: white;
+    border-color: #0d6efd;
+}
