@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    padding-top: 2rem;
+}
+  
+#output-message {
+    font-weight: bold;
+}
